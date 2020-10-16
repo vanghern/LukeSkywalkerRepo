@@ -1,0 +1,13 @@
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\bin\Release\LukeSkywalker.exe.config
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\bin\Release\LukeSkywalker.exe
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\bin\Release\LukeSkywalker.pdb
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\bin\Release\Newtonsoft.Json.xml
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\obj\Release\LukeSkywalker.csprojAssemblyReference.cache
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\obj\Release\LukeSkywalker.csproj.CoreCompileInputs.cache
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\obj\Release\LukeSkywalker.csproj.CopyComplete
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\obj\Release\LukeSkywalker.exe
+C:\Users\Vanghern\source\repos\LukeSkywalker\LukeSkywalker\obj\Release\LukeSkywalker.pdb

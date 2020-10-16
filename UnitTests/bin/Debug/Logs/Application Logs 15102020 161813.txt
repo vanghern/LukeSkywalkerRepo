@@ -1,0 +1,17 @@
+[15.10.2020 16:18:12] Begin HTTP Client Initialization. May the force be with you.
+[15.10.2020 16:18:12] HTTP Client Initialization Succesfull
+[15.10.2020 16:18:13] Luke Skywalker data successfully downloaded
+[15.10.2020 16:18:13] Connected with Luke Skywalker
+[15.10.2020 16:18:13] Film data successfully downloaded
+[15.10.2020 16:18:13] Film data successfully downloaded
+[15.10.2020 16:18:13] Film data successfully downloaded
+[15.10.2020 16:18:13] Film data successfully downloaded
+[15.10.2020 16:18:13] All films obtained.
+[15.10.2020 16:18:13] Vehicle data successfully downloaded
+[15.10.2020 16:18:13] Vehicle data successfully downloaded
+[15.10.2020 16:18:13] All vehicles obtained.
+[15.10.2020 16:18:13] Starship data successfully downloaded
+[15.10.2020 16:18:13] Starship data successfully downloaded
+[15.10.2020 16:18:13] All starships obtained.
+[15.10.2020 16:18:13] Data has been written to file
+[15.10.2020 16:18:13] Luke Skywalker saved in root directory

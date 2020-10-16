@@ -1,0 +1,38 @@
+[15.10.2020 16:39:51] Begin HTTP Client Initialization. May the force be with you.
+[15.10.2020 16:39:51] HTTP Client Initialization Succesfull
+[15.10.2020 16:39:52] Luke Skywalker data successfully downloaded
+[15.10.2020 16:39:52] Connected with Luke Skywalker
+[15.10.2020 16:39:52] Film data successfully downloaded
+[15.10.2020 16:39:52] Film data successfully downloaded
+[15.10.2020 16:39:52] Film data successfully downloaded
+[15.10.2020 16:39:52] Film data successfully downloaded
+[15.10.2020 16:39:52] All films obtained.
+[15.10.2020 16:39:52] Vehicle data successfully downloaded
+[15.10.2020 16:39:52] Vehicle data successfully downloaded
+[15.10.2020 16:39:52] All vehicles obtained.
+[15.10.2020 16:39:52] Starship data successfully downloaded
+[15.10.2020 16:39:52] Starship data successfully downloaded
+[15.10.2020 16:39:52] All starships obtained.
+[15.10.2020 16:39:52] Data has been written to file
+[15.10.2020 16:39:52] Luke Skywalker saved in root directory
+[15.10.2020 16:39:52] Starship data successfully downloaded
+[15.10.2020 16:39:52] Begin HTTP Client Initialization. May the force be with you.
+[15.10.2020 16:39:52] I have bad feelings about this. To wystąpienie uruchomiło już co najmniej jedno żądanie. Właściwości można modyfikować tylko przed wysłaniem pierwszego żądania.
+[15.10.2020 16:39:52] Luke Skywalker data successfully downloaded
+[15.10.2020 16:39:52] Connected with Luke Skywalker
+[15.10.2020 16:39:52] Film data successfully downloaded
+[15.10.2020 16:39:53] Film data successfully downloaded
+[15.10.2020 16:39:53] Film data successfully downloaded
+[15.10.2020 16:39:53] Film data successfully downloaded
+[15.10.2020 16:39:53] All films obtained.
+[15.10.2020 16:39:53] Vehicle data successfully downloaded
+[15.10.2020 16:39:53] Vehicle data successfully downloaded
+[15.10.2020 16:39:53] All vehicles obtained.
+[15.10.2020 16:39:53] Starship data successfully downloaded
+[15.10.2020 16:39:53] Starship data successfully downloaded
+[15.10.2020 16:39:53] All starships obtained.
+[15.10.2020 16:39:53] Data has been written to file
+[15.10.2020 16:39:53] Luke Skywalker saved in root directory
+[15.10.2020 16:39:53] Starship data successfully downloaded
+[15.10.2020 16:39:53] Begin HTTP Client Initialization. May the force be with you.
+[15.10.2020 16:39:53] I have bad feelings about this. To wystąpienie uruchomiło już co najmniej jedno żądanie. Właściwości można modyfikować tylko przed wysłaniem pierwszego żądania.
